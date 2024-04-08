@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "ngexecute": "ng g m countries/services/countries"
   },
   "private": true,
   "dependencies": {
