@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "ngexecute": "ng g c countries/components/countryTable"
+    "ngexecute": "ng g c shared/components/loadingSpinner"
   },
   "private": true,
   "dependencies": {
